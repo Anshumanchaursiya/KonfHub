@@ -28,6 +28,5 @@ for i in data["paid"]:
 	print '"{}"'.format(city_name),",",conf_start_date,",",conf_entry_type,",",'"{}"'.format(conf_url)
 	j = j+1
 
-print j
 # Closing file 
 f.close() 
