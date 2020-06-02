@@ -13,6 +13,7 @@ The key and values for the JSON entries are self-explanatory. For example, some 
  … 
 
  Technology used: Python 
+ 
  NOTE: Source code is available in .py file
 
 
